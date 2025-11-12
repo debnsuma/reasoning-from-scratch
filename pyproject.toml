@@ -26,6 +26,7 @@ dependencies = [
     "tokenizers>=0.21.2",
     "nbformat>=5.10.4",
     "sympy>=1.14.0", # For verifier in ch03
+    "pip>=25.3",
 ]
 
 classifiers = [
